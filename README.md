@@ -2,7 +2,7 @@
 
 
 
-A computer vision system that translates American Sign Language (ASL) alphabets into text and speech in real-time. Unlike heavy deep learning models (CNNs), this project uses **Landmark Extraction + Random Forest classification**, making it lightweight enough to run on CPU-only devices without lag.
+A computer vision system that translates American Sign Language (ASL) alphabets into text and speech in real-time. Unlike heavy deep learning models (CNNs), this project uses **Landmark Extraction + Random Forest classification**, making it lightweight enough to run on CPU-only devices without lag. 
 
 ## 🎯 Key Features
 * **Zero-Lag Detection:** optimized for CPUs using MediaPipe skeletons instead of raw pixel processing.
