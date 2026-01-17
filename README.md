@@ -9,6 +9,7 @@ A computer vision system that translates American Sign Language (ASL) alphabets 
 * **Smart Typing System:** Includes a buffer threshold (15 frames) to prevent flickering characters.
 * **Voice Output (TTS):** Converts the formed sentences into speech using `pyttsx3`.
 * **Editor Controls:** Type spaces, delete mistakes, and trigger speech using keyboard shortcuts.
+* * *Local Translation:** Translates the default output in English to Hindi and Bengali.
 
 ---
 
